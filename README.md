@@ -37,4 +37,9 @@ Embark on this CSS journey to transform simple buttons into interactive, animate
 ## Submission Guidelines
 - Submit the link to your GitHub repository on the LMS under the project tab.
 
-Embark on this CSS journey to transform simple buttons into interactive, animated elements. Let your creativity shine and enjoy the process of bringing static elements to life!
+Embark on this CSS journey to transform simple buttons into interactive, animated elements. Let your creativity shine and enjoy the process of bringing static elements to lifei!
+
+## Personal Notes
+- Btn-1 is a simple hover animation which creates a glowing shadow
+- Btn-2 is has a infinitely moving rgb shadow and the text turns blue when you hover it
+- Btn-3 rotates like a box when you hover it. this one was the most challenging i still cant get it to behave just how i would like it to.  
