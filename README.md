@@ -42,4 +42,5 @@ Embark on this CSS journey to transform simple buttons into interactive, animate
 ## Personal Notes
 - Btn-1 is a simple hover animation which creates a glowing shadow
 - Btn-2 is has a infinitely moving rgb shadow and the text turns blue when you hover it
-- Btn-3 rotates like a box when you hover it. this one was the most challenging i still cant get it to behave just how i would like it to.  
+- Btn-3 rotates like a box when you hover it. this one was the most challenging i still cant get it to behave just how i would like it to.
+  PREVIEW https://traderjoe97.github.io/Module_5R_CS20230347_WFO2407_B_Joseph-Monakedi_SDF05R
